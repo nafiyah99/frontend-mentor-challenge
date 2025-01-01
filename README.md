@@ -82,3 +82,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 <!-- - Website - [thisisnafiyah.site](https://thisisnafiyah.site/) -->
 - Frontend Mentor - [@nafiyah99](https://www.frontendmentor.io/profile/nafiyah99)
+
+made with 💖
