@@ -2,7 +2,7 @@ import productDesktop from '/images/image-product-desktop.jpg';
 import productMobile from '/images/image-product-mobile.jpg';
 import './App.css';
 
-function App() {
+const App: React.FC = () => {
   return (
     <>
       <section className="flex rounded-xl bg-[#ffffff]">
